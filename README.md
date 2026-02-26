@@ -9,4 +9,4 @@ I like turning theory into working prototypes, and “it works” into “it wor
 
 Currently focused on embedded design, FPGA, and hardware-software integration.
 
-📫 [LinkedIn]([https://www.linkedin.com/in/yourusername/](https://linkedin.com/in/omar-bayari)) | omar.y.bayari2828@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/yourusername/) | omar.y.bayari2828@gmail.com
